@@ -1,0 +1,137 @@
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\ApplicationInsights.config
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\csc.exe
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\csc.exe.config
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\csc.rsp
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\csi.exe
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\csi.rsp
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\System.AppContext.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\System.IO.FileSystem.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\vbc.exe
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\vbc.exe.config
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\vbc.rsp
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\VBCSCompiler.exe
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\WEB.dll.config
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\WEB.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\WEB.pdb
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\WebForms_Basic.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Antlr3.Runtime.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.Web.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.WindowsServer.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.ApplicationInsights.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.Web.Infrastructure.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Newtonsoft.Json.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\System.Web.Optimization.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\WebGrease.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\System.Web.Optimization.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Antlr3.Runtime.pdb
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Newtonsoft.Json.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.ApplicationInsights.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.WindowsServer.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Microsoft.AI.Web.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\obj\Debug\WEB.vbprojResolveAssemblyReference.cache
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\obj\Debug\WEB.Resources.resources
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\obj\Debug\WEB.vbproj.GenerateResource.Cache
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\obj\Debug\WEB.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\obj\Debug\WebForms_Basic.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\obj\Debug\WEB.pdb
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Telerik.Web.UI.dll
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\bin\Telerik.Web.UI.xml
+c:\users\duong\documents\visual studio 2017\Projects\VBNET_WEBFORM\WEB\obj\Debug\WEB.dll.licenses
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\ApplicationInsights.config
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\csc.exe
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\csc.exe.config
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\csc.rsp
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\csi.exe
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\csi.rsp
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\System.AppContext.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\vbc.exe
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\vbc.exe.config
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\vbc.rsp
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\VBCSCompiler.exe
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\WEB.dll.config
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\WEB.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\WEB.pdb
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\WebForms_Basic.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Antlr3.Runtime.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.DependencyCollector.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.Web.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.WindowsServer.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.ApplicationInsights.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Newtonsoft.Json.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\System.Web.Optimization.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\WebGrease.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\System.Web.Optimization.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Telerik.Web.UI.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Antlr3.Runtime.pdb
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Newtonsoft.Json.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.ApplicationInsights.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.DependencyCollector.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.WindowsServer.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\bin\Microsoft.AI.Web.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\obj\Debug\WEB.vbprojResolveAssemblyReference.cache
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\obj\Debug\WEB.Resources.resources
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\obj\Debug\WEB.vbproj.GenerateResource.Cache
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\obj\Debug\WEB.dll.licenses
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\obj\Debug\WEB.dll
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\obj\Debug\WebForms_Basic.xml
+D:\GIT\Telerik_TreeView\VBNET_WEBFORM\WEB\obj\Debug\WEB.pdb
